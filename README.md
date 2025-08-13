@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @pedro17-dev
-- 👀 I am interested in conseguir experiência na área da programação
-- 🌱 I’m currently learning python
+- 👀 I am interested in adquirir experiência na área do desenvolvimento web
+- 🌱 I’m currently learning Análise e Desenvolvimento de Sistemas
 - 💞️ I’m looking to collaborate on ...
-- 📫my contact is (11) 96600-9351
+- 📫my contact is (11) 96265-4955
 
 <!---
 pedro17-dev/pedro17-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
