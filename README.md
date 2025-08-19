@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @pedro17-dev
-- 👀 I am interested in adquirir experiência na área do desenvolvimento web
-- 🌱 I’m currently learning Análise e Desenvolvimento de Sistemas
-- 💞️ I’m looking to collaborate on ...
-- 📫my contact is (11) 96265-4955
+👋 Olá, eu sou o Pedro Henrique!  
 
-<!---
-pedro17-dev/pedro17-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+- 🚀 Estudante de **Análise e Desenvolvimento de Sistemas**  
+- 👀 Interessado em adquirir experiência na área de **Desenvolvimento Web (Front-end)**  
+- 🌱 Atualmente aprendendo **HTML | CSS | JavaScript | React**  
+- 💡 Buscando colaborar em projetos que me ajudem a desenvolver minhas habilidades e gerar impacto real  
+- 📫 Contato: **(11) 96265-4955** | pedrohrodriguessouza@gmail.com  
+- 🔗 LinkedIn: (https://www.linkedin.com/in/pedro-henrique-rodrigues-de-souza-9362681a2/)
+
+---
+### ⚡ Tecnologias & Ferramentas  
+💻 HTML • CSS • JavaScript; Python  
+⚛️ React; Java; Banco de Dados (em aprendizado)  
+📊 Git & GitHub  
+
+---
+### 📈 Objetivo  
+Construir projetos práticos e contribuir para a comunidade dev, enquanto evoluo como desenvolvedor Front-end. 
+
 --->
