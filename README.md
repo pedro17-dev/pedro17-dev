@@ -32,7 +32,7 @@ ________________________________________________________________________________
 
 ### 🧠 CONSTANTE APRENDIZADO
 <div style="display: flex; gap: 10px; flex-wrap: wrap; border-radius: 15px;">
-   <img src="https://skillicons.dev/icons?i=java" width="80" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=java" width="80" alt="Java" />
   <img src="https://skillicons.dev/icons?i=php" width="80" alt="PHP" />
   <img src="https://skillicons.dev/icons?i=mysql" width="80" alt="MySQL" />
 </div>
