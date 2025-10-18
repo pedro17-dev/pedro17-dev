@@ -8,7 +8,7 @@ ________________________________________________________________________________
 Atuar em projetos de desenvolvimento de software e web, aplicando conhecimentos técnicos, aprimorando competências profissionais e contribuindo para soluções inovadoras.
 __________________________________________________________________________________________________
 
-⚡ PRINCIPAIS HABILIDADES
+### ⚡ PRINCIPAIS HABILIDADES
 
 ### 🖌️ FRONT END
 <div style="display: flex; gap: 10px; flex-wrap: wrap; border-radius: 15px;">
