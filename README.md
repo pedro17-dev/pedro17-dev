@@ -21,21 +21,20 @@ ________________________________________________________________________________
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" alt="C" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" alt="Node.js" />
 </div>
-_____________________________________________________________________________________________________________________________
+__________________________________________________________________________________________________
 🧠 EM CONSTANTE APRENDIZADO
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" alt="PHP" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL" />
 </div>
-_____________________________________________________________________________________________________________________________
+__________________________________________________________________________________________________
 💼 CONTATO
 ## 📫 Contato                                                         
 <div>
   <a href="www.linkedin.com/in/pedro-henrique-rodrigues-de-souza-9362681a2" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-</div>
 </div>
 
 
