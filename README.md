@@ -27,7 +27,7 @@ ________________________________________________________________________________
   <img src="https://skillicons.dev/icons?i=c" width="80" alt="C" />
   <img src="https://skillicons.dev/icons?i=nodejs" width="80" alt="Node.js" />
 </div>
-__________________________________________________________________________________________
+__________________________________________________________________________________________________
 
 ### 🧠 CONSTANTE APRENDIZADO
 <div style="display: flex; gap: 10px; flex-wrap: wrap; border-radius: 15px;">
@@ -49,7 +49,8 @@ ________________________________________________________________________________
 <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
   <!-- Figma -->
   <img src="https://skillicons.dev/icons?i=figma" width="80" alt="Figma" />
-________________________________________________________________________________________________
+  
+__________________________________________________________________________________________________
 
 ### 📝 IDEs
 <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
