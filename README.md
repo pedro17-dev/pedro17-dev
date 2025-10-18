@@ -30,10 +30,12 @@ ________________________________________________________________________________
 </div>
 __________________________________________________________________________________________________
 💼 CONTATO                                                       
-<div>
-  <a href="www.linkedin.com/in/pedro-henrique-rodrigues-de-souza-9362681a2" target="_blank">
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/pedro-henrique-rodrigues-de-souza-9362681a2" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
+
 
 
