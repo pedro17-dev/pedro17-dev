@@ -1,9 +1,10 @@
-![CSS](https://github.com/user-attachments/assets/7fa8abd4-044d-41fb-bc0c-5c016b4c8874)👋 OLA, ME CHAMO PEDRO HENRIQUE!  
+👋 OLA, ME CHAMO PEDRO HENRIQUE!  
 _____________________________________________________________________________________________________________________________
 💻 Estudante de Análise e Desenvolvimento de Sistemas, com forte interesse em tecnologia e inovação, buscando constantemente 
 aprimorar minhas habilidades e crescer na área de TI.
-⚡ STACK PRINCIPAL
-FRONT-END
+⚡ PRINCIPAIS HABILIDADES
+_____________________________________________________________________________________________________________________________
+🖌️ FRONT-END
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS" />
@@ -12,13 +13,31 @@ FRONT-END
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" alt="Bootstrap" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" alt="Figma" />
 </div>
-BACK-END
+_____________________________________________________________________________________________________________________________
+🖥️ BACK-END
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" alt="C" />
-  
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" alt="Node.js" />
 </div>
-
-🧠 Em constante aprendizado
+_____________________________________________________________________________________________________________________________
+🧠 EM CONSTANTE APRENDIZADO
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL" />
+</div>
+_____________________________________________________________________________________________________________________________
+💼 CONTATO
+## 📫 Contato                                                         
+<div>
+  <a href="https://www.linkedin.com/in/pedrohenriquerodriguesdesouza/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://wa.me/5511962654955" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+</div>
+</div>
 
 
