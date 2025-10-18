@@ -27,7 +27,8 @@ ________________________________________________________________________________
 
 ### 🧠 CONSTANTE APRENDIZADO
 <div style="display: flex; gap: 10px; flex-wrap: wrap; border-radius: 15px;">
- [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,angular,figma,nodejs,java,mysql,python&theme=light)](https://skillicons.dev)
+</div>
 __________________________________________________________________________________________________
 ### 🧠 FERRAMENTAS
 
