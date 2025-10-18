@@ -23,10 +23,9 @@ ________________________________________________________________________________
 
 ### 🖥️ BACK END
 <div style="display: flex; gap: 10px; flex-wrap: wrap; border-radius: 15px;">
-  <img src="https://skillicons.dev/icons?i=nodejs" width="80" alt="Node.js" />
   <img src="https://skillicons.dev/icons?i=python" width="80" alt="Python" />
   <img src="https://skillicons.dev/icons?i=c" width="80" alt="C" />
-
+  <img src="https://skillicons.dev/icons?i=nodejs" width="80" alt="Node.js" />
 </div>
 __________________________________________________________________________________________
 
