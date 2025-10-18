@@ -6,32 +6,38 @@ ________________________________________________________________________________
 ⚡ PRINCIPAIS HABILIDADES
 
 🖌️ FRONT-END
-<div style="display: flex; gap: 10px; flex-wrap: wrap; border-radius:5px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="80" alt="HTML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="80" alt="CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="80" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="80" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="80" alt="Bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="80" alt="Figma" />
+__________________________________________________________________________________________________
+### 🖌️ Front-end
+<div style="display: flex; gap: 10px; flex-wrap: wrap; border-radius: 15px;">
+  <img src="https://skillicons.dev/icons?i=html" width="80" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" width="80" alt="CSS" />
+  <img src="https://skillicons.dev/icons?i=javascript" width="80" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=typescript" width="80" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=angular" width="80" alt="Angular" />
+  <img src="https://skillicons.dev/icons?i=figma" width="80" alt="Figma" />
 </div>
 __________________________________________________________________________________________________
-🖥️ BACK-END
-<div style="display: flex; gap: 10px; flex-wrap: wrap; border-radius:5px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="80" alt="C" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="80" alt="Node.js" />
+
+### 🖥️ Back-end
+<div style="display: flex; gap: 10px; flex-wrap: wrap; border-radius: 15px;">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="80" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=python" width="80" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=c" width="80" alt="C" />
+
 </div>
-__________________________________________________________________________________________________
-🧠 EM CONSTANTE APRENDIZADO
-<div style="display: flex; gap: 10px; flex-wrap: wrap; border-radius:5px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="80" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="80" alt="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="80" alt="MySQL" />
+__________________________________________________________________________________________
+
+### 🧠 Constante aprendizado
+<div style="display: flex; gap: 10px; flex-wrap: wrap; border-radius: 15px;">
+  <img src="https://skillicons.dev/icons?i=java" width="80" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=php" width="80" alt="PHP" />
+ <img src="https://skillicons.dev/icons?i=mysql" width="80" alt="MySQL" />
 </div>
+
 __________________________________________________________________________________________________
 💼 CONTATO                                                       
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="https://skillicons.dev/icons?i=figma&theme=light" width="50" alt="Figma" />
+<div style="display: flex; gap: 10px; flex-wrap: wrap; border-radius: 15px;">
+  <img src="https://skillicons.dev/icons?i=figma&theme=light" width="80" alt="Figma" />
 </div>
 
 
