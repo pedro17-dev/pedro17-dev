@@ -35,6 +35,7 @@ ________________________________________________________________________________
 ### 🧠 FERRAMENTAS
 <div style="display: flex; gap: 10px; flex-wrap: wrap; border-radius: 15px;">
 <img src="https://skillicons.dev/icons?i=github" width="80" alt="github" />
+<img src="https://skillicons.dev/icons?i=linkedin" width="80" alt="linkedin" />
 </div>
 
 
