@@ -10,7 +10,7 @@ ________________________________________________________________________________
 
 ### ⚡ PRINCIPAIS HABILIDADES
 
-### 🖌️ FRONT END
+### 🖌️ Front End
 <div style="display: flex; gap: 10px; flex-wrap: wrap; border-radius: 15px;">
   <img src="https://skillicons.dev/icons?i=html" width="80" alt="HTML" />
   <img src="https://skillicons.dev/icons?i=css" width="80" alt="CSS" />
@@ -21,7 +21,7 @@ ________________________________________________________________________________
 </div>
 __________________________________________________________________________________________________
 
-### 🖥️ BACK END
+### 🖥️ Back End
 <div style="display: flex; gap: 10px; flex-wrap: wrap; border-radius: 15px;">
   <img src="https://skillicons.dev/icons?i=python" width="80" alt="Python" />
   <img src="https://skillicons.dev/icons?i=c" width="80" alt="C" />
@@ -29,7 +29,7 @@ ________________________________________________________________________________
 </div>
 __________________________________________________________________________________________________
 
-### 🧠 CONSTANTE APRENDIZADO
+### 🧠 Constante Aprendizado
 <div style="display: flex; gap: 10px; flex-wrap: wrap; border-radius: 15px;">
   <img src="https://skillicons.dev/icons?i=java" width="80" alt="Java" />
   <img src="https://skillicons.dev/icons?i=php" width="80" alt="PHP" />
@@ -57,6 +57,15 @@ ________________________________________________________________________________
 <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
   <!-- VS Code -->
   <img src="https://skillicons.dev/icons?i=vscode" width="80" alt="VS Code" />
+
+  __________________________________________________________________________________________________
+
+### 💼 Contato
+  <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
+  <!-- VS Code -->
+  <a href="https://www.linkedin.com/in/pedro-henrique-rodrigues-de-souza-9362681a2/">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="80" alt="linkedin" />
+</a>
 
 
 
