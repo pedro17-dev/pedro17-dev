@@ -1,9 +1,10 @@
 👋 OLA, ME CHAMO PEDRO HENRIQUE!  
-_____________________________________________________________________________________________________________________________
+__________________________________________________________________________________________________
 💻 Estudante de Análise e Desenvolvimento de Sistemas, com forte interesse em tecnologia e inovação, buscando constantemente 
 aprimorar minhas habilidades e crescer na área de TI.
+__________________________________________________________________________________________________
 ⚡ PRINCIPAIS HABILIDADES
-_____________________________________________________________________________________________________________________________
+
 🖌️ FRONT-END
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML" />
@@ -13,7 +14,7 @@ ________________________________________________________________________________
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" alt="Bootstrap" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" alt="Figma" />
 </div>
-_____________________________________________________________________________________________________________________________
+__________________________________________________________________________________________________
 🖥️ BACK-END
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python" />
