@@ -32,15 +32,20 @@ ________________________________________________________________________________
   <img src="https://skillicons.dev/icons?i=mysql" width="80" alt="MySQL" />
 </div>
 __________________________________________________________________________________________________
-### 🧠 FERRAMENTAS
+### 🌐 DevOps e Versionamento
 <div style="display: flex; gap: 10px; flex-wrap: wrap; border-radius: 15px;">
 <img src="https://skillicons.dev/icons?i=github" width="80" alt="github" />
 <img src="https://skillicons.dev/icons?i=git" width="80" alt="git" />
-<img src="https://skillicons.dev/icons?i=vscode" width="80" alt="vscode" />
-<img src="https://skillicons.dev/icons?i=figma" width="80" alt="figma" />
-<img src="https://skillicons.dev/icons?i=inteliJ" width="80" alt="inteliJ" />
-<img src="https://skillicons.dev/icons?i=canva" width="80" alt="canva" />
 </div>
+__________________________________________________________________________________________________
+### 🔧Outras Ferramentas
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://skillicons.dev/icons?i=vscode" width="80" alt="vscode" />
+  <img src="https://skillicons.dev/icons?i=canva" width="80" alt="Canva" />
+  <img src="https://skillicons.dev/icons?i=intellij" width="80" alt="IntelliJ" />
+  <img src="https://skillicons.dev/icons?i=teams" width="80" alt="Teams" />
+</div>
+
 
 
 
