@@ -32,7 +32,6 @@ ________________________________________________________________________________
   <img src="https://skillicons.dev/icons?i=mysql" width="80" alt="MySQL" />
 </div>
 __________________________________________________________________________________________________
-## 🧰 Ferramentas de Tecnologia
 
 ### ⚙️ DevOps e Versionamento
 <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
@@ -40,36 +39,18 @@ ________________________________________________________________________________
   <img src="https://skillicons.dev/icons?i=git" width="80" alt="Git" />
   <!-- GitHub -->
   <img src="https://skillicons.dev/icons?i=github" width="80" alt="GitHub" />
-  <!-- Docker -->
-  <img src="https://skillicons.dev/icons?i=docker" width="80" alt="Docker" />
-</div>
 __________________________________________________________________________________________________
 
-### 🎨 Design e Prototipagem
+### 🎨 Design 
 <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
   <!-- Figma -->
   <img src="https://skillicons.dev/icons?i=figma" width="80" alt="Figma" />
-  <!-- Canva (badge do shields.io) -->
-  [![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/)
-</div>
 ________________________________________________________________________________________________
 
-### 💻 IDEs e Desenvolvimento
+### 💻 IDEs
 <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
   <!-- VS Code -->
   <img src="https://skillicons.dev/icons?i=vscode" width="80" alt="VS Code" />
-  <!-- IntelliJ (badge do shields.io) -->
-  [![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)](https://www.jetbrains.com/idea/)
-</div>
-__________________________________________________________________________________________________
-
-### 💬 Comunicação e Colaboração
-<div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
-  <!-- Teams (badge do shields.io) -->
-  [![Teams](https://img.shields.io/badge/Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white)](https://www.microsoft.com/pt-br/microsoft-teams/group-chat-software)
-  <!-- Slack -->
-  <img src="https://skillicons.dev/icons?i=slack" width="80" alt="Slack" />
-</div>
 
 
 
