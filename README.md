@@ -12,7 +12,7 @@ ________________________________________________________________________________
   <img src="https://skillicons.dev/icons?i=javascript" width="80" alt="JavaScript" />
   <img src="https://skillicons.dev/icons?i=typescript" width="80" alt="TypeScript" />
   <img src="https://skillicons.dev/icons?i=angular" width="80" alt="Angular" />
-  <img src="https://skillicons.dev/icons?i=figma" width="80" alt="Figma" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="80" alt="bootstrap" />
 </div>
 __________________________________________________________________________________________________
 
@@ -35,7 +35,11 @@ ________________________________________________________________________________
 ### 🧠 FERRAMENTAS
 <div style="display: flex; gap: 10px; flex-wrap: wrap; border-radius: 15px;">
 <img src="https://skillicons.dev/icons?i=github" width="80" alt="github" />
-<img src="https://skillicons.dev/icons?i=linkedin" width="80" alt="linkedin" />
+<img src="https://skillicons.dev/icons?i=git" width="80" alt="git" />
+<img src="https://skillicons.dev/icons?i=vscode" width="80" alt="vscode" />
+<img src="https://skillicons.dev/icons?i=figma" width="80" alt="figma" />
+<img src="https://skillicons.dev/icons?i=inteliJ" width="80" alt="inteliJ" />
+<img src="https://skillicons.dev/icons?i=canva" width="80" alt="canva" />
 </div>
 
 
