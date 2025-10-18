@@ -1,8 +1,13 @@
 👋 OLA, ME CHAMO PEDRO HENRIQUE!  
 __________________________________________________________________________________________________
-💻 Estudante de Análise e Desenvolvimento de Sistemas, com forte interesse em tecnologia e inovação, buscando constantemente 
-aprimorar minhas habilidades e crescer na área de TI.
+
+💻Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e inovação, com dedicação em aprimorar constantemente minhas habilidades na área de TI.
+_________________________________________________________________________________________________
+
+### 🎯 Objetivo
+Atuar em projetos de desenvolvimento de software e web, aplicando conhecimentos técnicos, aprimorando competências profissionais e contribuindo para soluções inovadoras.
 __________________________________________________________________________________________________
+
 ⚡ PRINCIPAIS HABILIDADES
 
 ### 🖌️ FRONT END
@@ -47,7 +52,7 @@ ________________________________________________________________________________
   <img src="https://skillicons.dev/icons?i=figma" width="80" alt="Figma" />
 ________________________________________________________________________________________________
 
-### 💻 IDEs
+### 📝 IDEs
 <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
   <!-- VS Code -->
   <img src="https://skillicons.dev/icons?i=vscode" width="80" alt="VS Code" />
