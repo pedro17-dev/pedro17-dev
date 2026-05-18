@@ -16,15 +16,14 @@ ________________________________________________________________________________
   <img src="https://skillicons.dev/icons?i=css" width="80" alt="CSS" />
   <img src="https://skillicons.dev/icons?i=javascript" width="80" alt="JavaScript" />
   <img src="https://skillicons.dev/icons?i=typescript" width="80" alt="TypeScript" />
-  <img src="https://skillicons.dev/icons?i=angular" width="80" alt="Angular" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" width="80" alt="bootstrap" />
-</div>
+  </div>
 __________________________________________________________________________________________________
 
 ### 🖥️ Back End
 <div style="display: flex; gap: 10px; flex-wrap: wrap; border-radius: 15px;">
   <img src="https://skillicons.dev/icons?i=python" width="80" alt="Python" />
   <img src="https://skillicons.dev/icons?i=c" width="80" alt="C" />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="80" alt="Node.js" />
   <img src="https://skillicons.dev/icons?i=nodejs" width="80" alt="Node.js" />
 </div>
 __________________________________________________________________________________________________
