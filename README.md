@@ -1,14 +1,14 @@
 # 👋 Olá, eu sou Pedro Henrique!
 
-💻 Estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento back-end e construção de soluções práticas utilizando Python, Java e tecnologias web.
+💻 Desenvolvedor Back-end em formação e estudante de Análise e Desenvolvimento de Sistemas, focado na construção de soluções práticas utilizando Python, Java e tecnologias web.
 
-Atualmente desenvolvo projetos próprios voltados para programação, automação, APIs e desenvolvimento de software, buscando evoluir constantemente minhas habilidades técnicas na área de tecnologia.
+Atualmente desenvolvo projetos próprios voltados para programação, automação, APIs e desenvolvimento de software, buscando evoluir constantemente minhas habilidades técnicas e experiência prática na área de tecnologia.
 
 ---
 
-## 🎯 Objetivo
+## 🚀 Objetivo
 
-Atuar em projetos de desenvolvimento de software, aplicando conhecimentos técnicos, aprimorando competências profissionais e contribuindo para soluções inovadoras.
+Atuar como Desenvolvedor Júnior, contribuindo em projetos de desenvolvimento de software, aplicando conhecimentos técnicos e evoluindo profissionalmente através de desafios reais e aprendizado contínuo.
 
 ---
 
