@@ -55,7 +55,7 @@ ________________________________________________________________________________
 <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
   <!-- VS Code -->
   <img src="https://skillicons.dev/icons?i=vscode" width="80" alt="VS Code" />
-
+  <img src="https://skillicons.dev/icons?i=idea" width="80" alt="IntelliJ IDEA" />
   __________________________________________________________________________________________________
 
 ### 💼 Contato
@@ -63,6 +63,9 @@ ________________________________________________________________________________
   <!-- VS Code -->
   <a href="https://www.linkedin.com/in/pedro-henrique-rodrigues-de-souza-9362681a2/">
   <img src="https://skillicons.dev/icons?i=linkedin" width="80" alt="linkedin" />
+    <a href="https://wa.me/5511962654955">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+</a>
 </a>
 
 
