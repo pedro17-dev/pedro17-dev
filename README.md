@@ -52,21 +52,24 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________
 
 ### 📝 IDEs
+### 📝 IDEs
 <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
-  <!-- VS Code -->
   <img src="https://skillicons.dev/icons?i=vscode" width="80" alt="VS Code" />
   <img src="https://skillicons.dev/icons?i=idea" width="80" alt="IntelliJ IDEA" />
+</div>
+
+__________________________________________________________________________________________________
   __________________________________________________________________________________________________
 
 ### 💼 Contato
-  <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
-  <!-- VS Code -->
+<div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
   <a href="https://www.linkedin.com/in/pedro-henrique-rodrigues-de-souza-9362681a2/">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="80" alt="linkedin" />
-   <a href="https://wa.me/5511962654955">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=whatsapp" width="80" alt="WhatsApp" />
-</a>
-</a>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="80" alt="LinkedIn" />
+  </a>
+  <a href="https://wa.me/5511962654955">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=whatsapp" width="80" alt="WhatsApp" />
+  </a>
+</div>
 
 
 
