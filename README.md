@@ -63,8 +63,8 @@ ________________________________________________________________________________
   <!-- VS Code -->
   <a href="https://www.linkedin.com/in/pedro-henrique-rodrigues-de-souza-9362681a2/">
   <img src="https://skillicons.dev/icons?i=linkedin" width="80" alt="linkedin" />
-    <a href="https://wa.me/5511962654955">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+   <a href="https://wa.me/5511962654955">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=whatsapp" width="80" alt="WhatsApp" />
 </a>
 </a>
 
