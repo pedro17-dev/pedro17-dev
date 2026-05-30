@@ -2,7 +2,7 @@
 
 💻 Estudante de Análise e Desenvolvimento de Sistemas, com interesse em Qualidade de Software (QA) e Desenvolvimento de Software.
 
-Atualmente desenvolvo projetos próprios para aprimorar minhas habilidades técnicas e adquirir experiência prática em programação, desenvolvimento web e testes de software. Tenho aplicado conceitos de validação de funcionalidades, identificação de bugs, documentação de melhorias e experiência do usuário em projetos pessoais.
+Atualmente desenvolvo projetos próprios para aprimorar minhas habilidades técnicas e adquirir experiência prática em programação, desenvolvimento web e testes de software. Também venho estudando conceitos de validação de funcionalidades, identificação de bugs, documentação de melhorias e experiência do usuário, aplicando esses conhecimentos em projetos pessoais.
 
 ---
 
@@ -46,6 +46,9 @@ Atuar como QA Júnior ou Desenvolvedor Júnior, contribuindo para a qualidade, e
   <img src="https://skillicons.dev/icons?i=mysql" width="80" />
 </div>
 
+- SQL
+- MySQL
+
 ---
 
 ## ⚙️ Ferramentas
@@ -83,8 +86,4 @@ Site pessoal para apresentação de projetos e evolução profissional.
 
 ---
 
-## 🌐 Links
-
-- LinkedIn
-- Portfólio
-- GitHub
+📈 Sempre em busca de novos conhecimentos em Qualidade de Software (QA), Desenvolvimento de Software e tecnologias que contribuam para a construção de soluções cada vez melhores.
