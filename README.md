@@ -1,62 +1,90 @@
 # 👋 Olá, eu sou Pedro Henrique!
 
-💻 Desenvolvedor Back-end em formação e estudante de Análise e Desenvolvimento de Sistemas, focado na construção de soluções práticas utilizando Python, Java e tecnologias web.
+💻 Estudante de Análise e Desenvolvimento de Sistemas, com interesse em Qualidade de Software (QA) e Desenvolvimento de Software.
 
-Atualmente desenvolvo projetos próprios voltados para programação, automação, APIs e desenvolvimento de software, buscando evoluir constantemente minhas habilidades técnicas e experiência prática na área de tecnologia.
+Atualmente desenvolvo projetos próprios para aprimorar minhas habilidades técnicas e adquirir experiência prática em programação, desenvolvimento web e testes de software. Tenho aplicado conceitos de validação de funcionalidades, identificação de bugs, documentação de melhorias e experiência do usuário em projetos pessoais.
 
 ---
 
 ## 🚀 Objetivo
 
-Atuar como Desenvolvedor Júnior, contribuindo em projetos de desenvolvimento de software, aplicando conhecimentos técnicos e evoluindo profissionalmente através de desafios reais e aprendizado contínuo.
+Atuar como QA Júnior ou Desenvolvedor Júnior, contribuindo para a qualidade, evolução e desenvolvimento de soluções de software, enquanto continuo expandindo meus conhecimentos técnicos e experiência prática.
 
 ---
 
-## 🖥️ Back-end
+## 🧪 Qualidade de Software (QA)
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="https://skillicons.dev/icons?i=python" width="80" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=java" width="80" alt="Java" />
-  <img src="https://skillicons.dev/icons?i=spring" width="80" alt="Spring Boot" />
-  <img src="https://skillicons.dev/icons?i=nodejs" width="80" alt="Node.js" />
-  <img src="https://skillicons.dev/icons?i=mysql" width="80" alt="MySQL" />
+- Testes manuais
+- Documentação de bugs
+- Casos de teste
+- Validação de funcionalidades
+- Análise de experiência do usuário
+- Melhoria contínua de aplicações
+
+---
+
+## 💻 Desenvolvimento
+
+### Linguagens
+
+<div>
+  <img src="https://skillicons.dev/icons?i=python" width="80" />
+  <img src="https://skillicons.dev/icons?i=java" width="80" />
+  <img src="https://skillicons.dev/icons?i=javascript" width="80" />
+</div>
+
+### Desenvolvimento Web
+
+<div>
+  <img src="https://skillicons.dev/icons?i=html" width="80" />
+  <img src="https://skillicons.dev/icons?i=css" width="80" />
+</div>
+
+### Banco de Dados
+
+<div>
+  <img src="https://skillicons.dev/icons?i=mysql" width="80" />
 </div>
 
 ---
 
-## 🌐 Front-end
+## ⚙️ Ferramentas
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="https://skillicons.dev/icons?i=html" width="80" alt="HTML" />
-  <img src="https://skillicons.dev/icons?i=css" width="80" alt="CSS" />
-  <img src="https://skillicons.dev/icons?i=javascript" width="80" alt="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=react" width="80" alt="React" />
-</div>
-
----
-
-## ⚙️ Ferramentas e Versionamento
-
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="https://skillicons.dev/icons?i=git" width="80" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=github" width="80" alt="GitHub" />
-  <img src="https://skillicons.dev/icons?i=vscode" width="80" alt="VS Code" />
-  <img src="https://skillicons.dev/icons?i=idea" width="80" alt="IntelliJ IDEA" />
-  <img src="https://skillicons.dev/icons?i=figma" width="80" alt="Figma" />
+<div>
+  <img src="https://skillicons.dev/icons?i=git" width="80" />
+  <img src="https://skillicons.dev/icons?i=github" width="80" />
+  <img src="https://skillicons.dev/icons?i=vscode" width="80" />
+  <img src="https://skillicons.dev/icons?i=idea" width="80" />
 </div>
 
 ---
 
 ## 📌 Projetos em destaque
 
-- Sistema de Detecção Facial com Python e OpenCV
-- Calculadora em Python com interface gráfica
-- Portfólio pessoal responsivo
+### FocusHub
+Aplicação web para gerenciamento de tarefas e hábitos, desenvolvida com HTML, CSS e JavaScript.
+
+### Sistema de Detecção Facial
+Projeto desenvolvido em Python utilizando OpenCV para identificação facial em tempo real.
+
+### Calculadora
+Aplicação desenvolvida para praticar lógica de programação e construção de interfaces.
+
+### Portfólio
+Site pessoal para apresentação de projetos e evolução profissional.
 
 ---
 
-## 💼 Contato
+## 📚 Certificações
 
-<a href="https://www.linkedin.com/in/pedro-henrique-rodrigues-de-souza-9362681a2/">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="80" alt="LinkedIn" />
-</a>
+- Microsoft Certified: Azure Fundamentals
+- Python - SENAI
+- Java - Udemy
+
+---
+
+## 🌐 Links
+
+- LinkedIn
+- Portfólio
+- GitHub
